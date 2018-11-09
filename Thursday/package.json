@@ -1,0 +1,18 @@
+{
+  "name": "Thursday",
+  "version": "1.0.0",
+  "description": "grocery app\r - A user should be able to enter shopping lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.3.10"
+  }
+}

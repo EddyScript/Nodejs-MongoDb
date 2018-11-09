@@ -1,0 +1,23 @@
+html {
+    background-image:url('http://pjazza.fi/wp-content/uploads/2016/12/pjazza-italian-restaurant-background.jpg');
+    color: white;
+    font-family: 'Amatic SC', cursive;
+}
+
+.container {
+  position: absolute;
+  left: 590px;
+  font-size: 50px;
+}
+h2{
+    position: absolute;
+    left: 150px;
+    font-size: 40px;
+    top:-100px;
+
+}
+.login-bar {
+ position: absolute;
+ left: 750px;
+ top: 300px;
+}
